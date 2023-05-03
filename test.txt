@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Doing changes in Feature2 branch as mentioned in Step3 in the Assignment.
 =======
 Commit some changes in Feature1 branch as mentioned in Step#4 of the assignment.
 >>>>>>> c53f441 (Update test.txt (Feature1 branch))
+=======
+Commit some changes in Feature1 branch as mentioned in Step#4 of the assignment.
+Doing changes in Feature2 branch as mentioned in Step3 in the Assignment.
+>>>>>>> d916bff (commit test.txt)
